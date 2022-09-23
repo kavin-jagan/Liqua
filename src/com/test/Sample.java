@@ -8,7 +8,7 @@ public class Sample {
 		List<Integer>li=new ArrayList<Integer>();
 		
 		
-		li.add(90);
+		System.out.println("efuhfu");
 		li.add(20);
 		li.add(30);
 		li.add(50);
